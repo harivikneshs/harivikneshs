@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Final Year undergrad (B.Tech, ECE) at NIT - Puducherry, Interested in Android and Full-Stack (MERN) developement, currently looking for SDE oppurtunities
+I am a Final Year undergrad (B.Tech, ECE) at NIT Puducherry, Interested in Android and Full-Stack (MERN) development, currently looking for SDE oppurtunities.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harivikneshs&theme=tokyonight&show_icons=true&count_private=true" margin=20/>
