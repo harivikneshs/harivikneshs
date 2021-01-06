@@ -9,7 +9,7 @@ I am a Final Year undergrad (B.Tech, ECE) at NIT Puducherry, Interested in Andro
  </p>
 
 
-Skills
+#### Skills
 
 ![Android](https://img.shields.io/badge/Android-green?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-9cf?style=for-the-badge)
@@ -17,7 +17,7 @@ Skills
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge)
 
-Profiles
+#### Profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/harivikneshs)
 [![CodeChef](https://img.shields.io/badge/CodeChef%20(4%20star)-lightgrey?style=for-the-badge)](https://www.codechef.com/users/harivikneshs) 
