@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 I am a Final Year undergrad (B.Tech, ECE) at NIT - Puducherry, Interested in Android and Full-Stack (MERN) developement, currently looking for SDE oppurtunities
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harivikneshs&theme=tokyonight&show_icons=true&count_private=true" margin=20/>
   
@@ -17,15 +19,13 @@ Skills
  <img src="https://img.shields.io/badge/Python-orange?style=for-the-badge"/>
 </p>
 </p>
+ 
 
-<p align="center">
-Connect With Me
-<p align="center"> 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&link=https://www.linkedin.com/in/harivikneshs" />
-<img src="https://img.shields.io/badge/CodeChef-lightgrey?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge"/>
-</p>
-</p>
+Profiles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/harivikneshs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/harivikneshs) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/harivikneshs) 
 
 
 <!--
