@@ -11,16 +11,20 @@ I am a Final Year undergrad (B.Tech, ECE) at NIT Puducherry, Interested in Andro
 
 #### Skills
 
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge)
-![React](https://img.shields.io/badge/React-9cf?style=for-the-badge)
-![Node](https://img.shields.io/badge/Node-success?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node-black?style=for-the-badge&logo=node-dot-js)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
+#### Works
+
+[![Neso Academy](neso-logo.jpg)](https://www.linkedin.com/in/harivikneshs)
 
 #### Profiles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/harivikneshs)
-[![CodeChef](https://img.shields.io/badge/CodeChef%20(4%20star)-lightgrey?style=for-the-badge)](https://www.codechef.com/users/harivikneshs) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harivikneshs)
+[![CodeChef](https://img.shields.io/badge/CodeChef%20(4%20star)-lightgrey?style=for-the-badge&logo=CodeChef)](https://www.codechef.com/users/harivikneshs) 
 [![Resume](https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge)](https://drive.google.com/file/d/1tOR-4IVOHHbjDZB9SFBktDrMRVhXCA1K/view) 
 
 
