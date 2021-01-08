@@ -19,8 +19,9 @@ I am a Final Year undergrad (B.Tech, ECE) at NIT Puducherry, Interested in Andro
 
 #### Works
 
-[![Neso Academy](nesologo.jpg)](https://play.google.com/store/apps/details?id=org.nesoacademy)
-[![Mangoo](mango-logo.webp)](https://play.google.com/store/apps/details?id=in.mangoo.mangooonlinefooddelivery)
+[![Neso Academy](neso-logo.png)](https://play.google.com/store/apps/details?id=org.nesoacademy)
+<img width=50/>
+[![Mangoo](mangoo-logo.PNG)](https://play.google.com/store/apps/details?id=in.mangoo.mangooonlinefooddelivery)
 
 #### Profiles
 
