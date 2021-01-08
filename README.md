@@ -20,14 +20,14 @@ I am a Final Year undergrad (B.Tech, ECE) at NIT Puducherry, Interested in Andro
 #### Works
 
 [![Neso Academy](neso-logo.png)](https://play.google.com/store/apps/details?id=org.nesoacademy)
-<img width=50/>
+<img width=5/>
 [![Mangoo](mangoo-logo.PNG)](https://play.google.com/store/apps/details?id=in.mangoo.mangooonlinefooddelivery)
 
 #### Profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harivikneshs)
 [![CodeChef](https://img.shields.io/badge/CodeChef%20(4%20star)-lightgrey?style=for-the-badge&logo=CodeChef)](https://www.codechef.com/users/harivikneshs) 
-[![Resume](https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge)](https://drive.google.com/file/d/1tOR-4IVOHHbjDZB9SFBktDrMRVhXCA1K/view) 
+[![Resume](https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge&logo=pagekit)](https://drive.google.com/file/d/1tOR-4IVOHHbjDZB9SFBktDrMRVhXCA1K/view) 
 
 
 <!--
