@@ -11,15 +11,16 @@ I am a Final Year undergrad (B.Tech, ECE) at NIT Puducherry, Interested in Andro
 
 #### Skills
 
-![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node-black?style=for-the-badge&logo=node-dot-js)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Android](https://img.shields.io/badge/Android-1a1b27?style=for-the-badge&logo=android)
+![React](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node-1a1b27?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python)
 
 #### Works
 
-[![Neso Academy](neso-logo.jpg)](https://www.linkedin.com/in/harivikneshs)
+[![Neso Academy](nesologo.jpg)](https://play.google.com/store/apps/details?id=org.nesoacademy)
+[![Mangoo](mango-logo.webp)](https://play.google.com/store/apps/details?id=in.mangoo.mangooonlinefooddelivery)
 
 #### Profiles
 
